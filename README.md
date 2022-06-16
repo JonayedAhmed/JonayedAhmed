@@ -1,8 +1,6 @@
 ### Hi there this is Jonayed Ahmed Riduan 👋
 
-<!--
-Created this with help of lots of template collection of https://github.com/durgeshsamariya/awesome-github-profile-readme-templates, so credit goes to the contributors of the repository!! 
--->
+
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats :
